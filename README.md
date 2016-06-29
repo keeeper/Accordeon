@@ -1,2 +1,1 @@
-## Accordeon JS
-Test task
+## Accordeon 
