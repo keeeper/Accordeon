@@ -22,9 +22,6 @@ ul li {
   margin: auto;
   width: 460px;
 }
-.accordeon {
-
-}
 .accordeon__sub-list {
   padding: 14px 20px;
 }
@@ -35,7 +32,7 @@ ul li {
   background-color: #e7e7e7;
   border-radius: 18px;
   margin-bottom: 4px;
-} 
+}
 .accordeon__main-item .accordeon__trigger {
   position: relative;
   padding: 12px 20px;
@@ -70,8 +67,6 @@ ul li {
   border-top: transparent;
   border-bottom: 12px solid #fff;
 }
-
-
 .accordeon__main-item:nth-child(odd) .accordeon__trigger {
   background-color: #696666;
 }
