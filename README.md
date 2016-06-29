@@ -1,1 +1,2 @@
-# loftschool
+## Accordeon JS
+Test task
